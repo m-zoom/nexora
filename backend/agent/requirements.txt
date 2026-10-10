@@ -1,0 +1,6 @@
+# Same lockstep as the mrbayo.dev voice worker; bump the livekit-* pins together.
+livekit-agents==1.6.9
+livekit-plugins-silero==1.6.9
+livekit-plugins-spitch==1.6.9
+python-dotenv==1.2.2
+aiohttp==3.14.1
