@@ -12,6 +12,28 @@ Then:
 
 Those two products pop out of their cards and fly into the cart.
 
+![Nexora home page](docs/screenshots/home.png)
+
+## A voice shopping trip
+
+These screenshots are from a real call with the voice agent.
+
+**1. Tap the phone button.** The assistant answers and asks what you're shopping for.
+
+![Call panel with the assistant speaking](docs/screenshots/call.png)
+
+**2. "A wristwatch and a bag below 200,000."** The page switches to exactly the matching products, numbered.
+
+![Numbered picks: two watches and three bags under ₦200,000](docs/screenshots/picks.png)
+
+**3. "Add the first and the third to my cart."** The watch and the backpack lift off and fly into the cart.
+
+![Products flying into the cart icon](docs/screenshots/fly-to-cart.png)
+
+**4. They're in the cart.**
+
+![Cart drawer with the Leather Strap Watch and Everyday Backpack](docs/screenshots/cart.png)
+
 ## What's inside
 
 ```
